@@ -1,7 +1,7 @@
 ### Oi! Eu sou o João Samuel
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estou estudando Javascript
+- 🌱 Estou estudando Node.js
 - 📫 Contato: joaosvbg@gmail.com
 - 📚 Estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana - UEFS
 - 😄 Pronomes: ele/dele

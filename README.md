@@ -1,6 +1,6 @@
 ### Oi! Eu sou o João Samuel
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com Back-End
 - 🌱 Minha stack é Javascript - Node.js
 - 📫 Contato: joaosvbg@gmail.com
 - 📚 Estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana - UEFS

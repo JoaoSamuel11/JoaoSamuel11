@@ -1,6 +1,6 @@
 ### Oi! Eu sou o João Samuel
 
-- 🔭 Hoje trabalho com QA
+- 🔭 Hoje trabalho como QA
 - 📫 Contato: joaosvbg@gmail.com
 - 📚 Estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana - UEFS
 - 😄 Pronomes: ele/dele

@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho como QA
 - 📫 Contato: joaosvbg@gmail.com
 - 📚 Estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana - UEFS
+- 💻 Graduado em analise e desenvilvimento de sistemas
 - 😄 Pronomes: ele/dele
 
 
